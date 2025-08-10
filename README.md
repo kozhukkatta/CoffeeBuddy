@@ -29,29 +29,7 @@ coffee-buddy/
 ├── pubspec.yaml # Dependencies
 └── README.md
 
-yaml
-Copy
-Edit
 
----
-
-## ⚙️ Setup Instructions
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/your-username/CoffeeBuddy.git
-   cd CoffeeBuddy
-Install dependencies
-
-bash
-Copy
-Edit
-flutter pub get
-Run the app
-
-bash
-Copy
-Edit
-flutter run
 📌 Roadmap (Planned Features)
 Coffee shop listing & browsing
 
